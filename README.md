@@ -1,26 +1,15 @@
-public class Snesseye extends GitHubUser {
+<h1 align="center">Hi 👋, I'am Snesseye</h1>
+<h3 align="center">A passionate frontend developer from Belgium</h3>
 
-  public Snesseye() {
-    super("Snesseye", "Belgium");
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snesseye&label=Profile%20views&color=0e75b6&style=flat" alt="snesseye" /> </p>
 
-    this.addLanguage("Java", "Python");
-  }
-}
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-public abstract class GitHubUser {
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-  private final String name;
-  private final String country;
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snesseye&show_icons=true&locale=en&layout=compact" alt="snesseye" /></p>
 
-  private ArrayList<String> languages = new ArrayList<>();
-
-  public GitHubUser(String name, String country) {
-      this.name = name;
-      this.country = country;
-  }
-
-  public void addLanguage(String... languages) {
-    languages.addAll(languages);
-  }
-  
-}
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snesseye&show_icons=true&locale=en" alt="snesseye" /></p>
