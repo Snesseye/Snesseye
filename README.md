@@ -1,13 +1,42 @@
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<a href="https://twitter.com/OofJoa" target="blank"><img src="https://img.shields.io/twitter/follow/iFlyinqMC?logo=twitter&style=for-the-badge" alt="iFlyinqMC"/></a> 
+<img src="https://visitor-badge.glitch.me/badge?page_id=snesseye" alt="Snesseye visit count"/>
+
+```java
+public class iFlyinq extends GitHubUser {
+
+  public Snesseye() {
+    super("Snesseye", "Belgium");
+
+    this.addLanguage("Java", "C#", "Python");
+  }
+}
+
+public abstract class GitHubUser {
+
+  private final String name;
+  private final String country;
+
+  private ArrayList<String> languages = new ArrayList<>();
+
+  public GitHubUser(String name, String country) {
+      this.name = name;
+      this.country = country;
+  }
+
+  public void addLanguage(String... languages) {
+    languages.addAll(languages);
+  }
   
-<div> 
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-  
+}
+```
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Snesseye&count_private=true&show_icons=true&theme=dark&hide_border=false" alt="github stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Snesseye&theme=dark&show_iconsk&count_private=true" alt="wakatime stats" height=195>
+    </td>
+  </tr>
+</table>
