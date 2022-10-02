@@ -1,4 +1,4 @@
-<a href="https://twitter.com/OofJoa" target="blank"><img src="https://img.shields.io/twitter/follow/iFlyinqMC?logo=twitter&style=for-the-badge" alt="iFlyinqMC"/></a> 
+<a href="https://twitter.com/OofJoa" target="blank"><img src="https://img.shields.io/twitter/follow/iFlyinqMC?logo=twitter&style=for-the-badge" alt="Snesseye"/></a> 
 <img src="https://visitor-badge.glitch.me/badge?page_id=snesseye" alt="Snesseye visit count"/>
 
 ```java
