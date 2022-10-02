@@ -2,7 +2,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=snesseye" alt="Snesseye visit count"/>
 
 ```java
-public class iFlyinq extends GitHubUser {
+public class Snesseye extends GitHubUser {
 
   public Snesseye() {
     super("Snesseye", "Belgium");
